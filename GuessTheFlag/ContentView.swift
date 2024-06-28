@@ -78,7 +78,7 @@ struct ContentView: View {
             scoreTotal += 1
             
         }else{
-            scoreTitle = "Wrong"
+            scoreTitle = "Wrong, try again."
             scoreTotal = 0
         }
         showingScore = true
