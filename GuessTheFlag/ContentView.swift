@@ -23,7 +23,7 @@ struct ContentView: View {
         ZStack{
             
             
-            LinearGradient(colors: [.blue, .black], startPoint: .top, endPoint: .bottom)
+            LinearGradient(colors: [.teal, .black], startPoint: .top, endPoint: .bottom)
                 .ignoresSafeArea()
           
     
@@ -59,7 +59,8 @@ struct ContentView: View {
                 }
                 
             }
-          
+            
+
             
         }
         
@@ -73,7 +74,7 @@ struct ContentView: View {
     
     func flagTapped(_ number: Int){
         if number == correctAnswer{
-            scoreTitle = "Correct"
+            scoreTitle = "Correct 🎉"
             scoreTotal += 1
             
         }else{
