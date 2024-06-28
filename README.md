@@ -1,5 +1,3 @@
-![Simulator Screenshot - iPhone 15 Pro - 2024-06-28 at 03 28 36](https://github.com/tugcesaygin/GuessTheFlag/assets/79403885/395abc2d-6c0a-4299-85d1-0c5115f4a749)
-
-![Simulator Screenshot - iPhone 15 Pro - 2024-06-28 at 03 28 48](https://github.com/tugcesaygin/GuessTheFlag/assets/79403885/e5a56e6f-f250-44db-a0d8-0eb89d320e0f)
-
-![Simulator Screenshot - iPhone 15 Pro - 2024-06-28 at 03 29 08](https://github.com/tugcesaygin/GuessTheFlag/assets/79403885/6768242b-1c6d-413f-84a6-c2ae05670693)
+![Ekran Resmi 2024-06-28 03 30 08](https://github.com/tugcesaygin/GuessTheFlag/assets/79403885/f1968a10-2092-40be-bfc6-9013a4ebb666)
+![Ekran Resmi 2024-06-28 03 30 25](https://github.com/tugcesaygin/GuessTheFlag/assets/79403885/888595a9-5ad4-4336-9e4c-bc2d26acbee9)
+![Ekran Resmi 2024-06-28 03 30 35](https://github.com/tugcesaygin/GuessTheFlag/assets/79403885/f0b1f6bf-f40e-4048-b74a-c28ebc29ab6b)
